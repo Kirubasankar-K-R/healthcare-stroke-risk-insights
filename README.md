@@ -134,7 +134,7 @@ The dataset contains important healthcare attributes such as:
 
 ## 🏥 Dashboard Screenshot
 
-![Healthcare Stroke Risk Dashboard](
+![Healthcare Stroke Risk Dashboard](https://github.com/Kirubasankar-K-R/healthcare-stroke-risk-insights/blob/main/Healthcare%20stroke%20risk%20insights%20image.png)
 
 ---
 
